@@ -21,10 +21,6 @@ In addition to the performance measurement, we also demonstrate that this model 
 - - -
 ### *Female to male(p262->p256)*
 - - -
-| **Source**   | **Target**  |**Converted** |
-|  ----  | ----  |----  |
-| <audio src="res/demo/p262_p256_F_M/p262_027_p256_150_src.wav" controls preload></audio>  | <audio src="res/demo/p262_p256_F_M/p262_027_p256_150_tar.wav" controls preload></audio> | <audio src="res/demo/p262_p256_F_M/p262_027_p256_150_con.wav" controls preload></audio>|
-
 #### *Source*
 <audio src="res/demo/p262_p256_F_M/p262_027_p256_150_src.wav" controls preload></audio>
 #### *Target*
