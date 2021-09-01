@@ -46,3 +46,4 @@ In addition to the performance measurement, we also demonstrate that this model 
 #### *Converted*
 <audio src="res/demo/p278_p310_M_F/p278_047_p310_324_con.wav" controls preload></audio>
 - - -
+**Paper2**:This is the unofficial demo page for the paper [A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316)
