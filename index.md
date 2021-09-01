@@ -15,7 +15,7 @@ In addition to the performance measurement, we also demonstrate that this model 
 #### *Source*
 <audio src="p237_001.wav" controls preload></audio>
 #### *Target*
-<audio src="res/demo/p237_p292_M_M/p237_018_p292_155_tar.wav" controls preload></audio>
+<audio src="p292_001.wav" controls preload></audio>
 #### *Converted*
 <audio src="p237_1_p292.wav" controls preload></audio>
 - - -
