@@ -31,20 +31,20 @@ In addition to the performance measurement, we also demonstrate that this model 
 ### *Female to female(p276->p294)*
 - - -
 #### *Source*
-<audio src="res/demo/p276_p294_F_F/p276_064_p294_069_src.wav" controls preload></audio>
+<audio src="p276_002.wav" controls preload></audio>
 #### *Target*
-<audio src="res/demo/p276_p294_F_F/p276_064_p294_069_tar.wav" controls preload></audio>
+<audio src="p294_002.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p276_p294_F_F/p276_064_p294_069_con.wav" controls preload></audio>
+<audio src="p276_2_p294.wav" controls preload></audio>
 - - -
 ### *Male to female(p278->p310)*
 - - -
 #### *Source*
-<audio src="res/demo/p278_p310_M_F/p278_047_p310_324_src.wav" controls preload></audio>
+<audio src="p278_002.wav" controls preload></audio>
 #### *Target*
-<audio src="res/demo/p278_p310_M_F/p278_047_p310_324_tar.wav" controls preload></audio>
+<audio src="p310_002.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p278_p310_M_F/p278_047_p310_324_con.wav" controls preload></audio>
+<audio src="p278_2_p310.wav" controls preload></audio>
 - - -
 **Paper2**:This is the unofficial demo page for the paper [A One-shot Voice Conversion using Activation Guidance and Adaptive Instance Normalization](https://arxiv.org/abs/2011.00316)
 ## Abstract
