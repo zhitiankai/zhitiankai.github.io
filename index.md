@@ -13,11 +13,11 @@ In addition to the performance measurement, we also demonstrate that this model 
 ### *Male to male(p237->p292)*
 - - -
 #### *Source*
-<audio src="res/demo/p237_p292_M_M/p237_018_p292_155_src.wav" controls preload></audio>
+<audio src="p237_001.wav" controls preload></audio>
 #### *Target*
 <audio src="res/demo/p237_p292_M_M/p237_018_p292_155_tar.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p237_p292_M_M/p237_018_p292_155_con.wav" controls preload></audio>
+<audio src="p237_1_p292.wav" controls preload></audio>
 - - -
 #### *Source*
 <audio src="res/demo/p237_p292_M_M/p237_087_p292_162_src.wav" controls preload></audio>
